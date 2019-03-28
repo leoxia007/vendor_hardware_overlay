@@ -21,6 +21,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-huawei-DUK \
 	treble-overlay-huawei-EML \
 	treble-overlay-huawei-LLD \
+	treble-overlay-huawei-MHA \
 	treble-overlay-huawei-PRA \
 	treble-overlay-huawei-RNE \
 	treble-overlay-huawei-STF \
